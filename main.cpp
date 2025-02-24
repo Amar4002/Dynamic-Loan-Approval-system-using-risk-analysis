@@ -106,11 +106,11 @@ void displayApplicants(vector<Applicant>& applicants) {
 int main() {
     // Sample Applicants
     vector<Applicant> applicants = {
-        {"Alice", 750, 5000, 10000, 1000, 0},
-        {"Bob", 550, 2000, 7000, 4000, 1},
-        {"Charlie", 620, 4500, 12000, 2000, 0},
-        {"David", 400, 1800, 5000, 3000, 1},
-        {"Emma", 680, 6000, 15000, 2500, 0}
+        {"Amar", 750, 5000, 10000, 1000, 0},
+        {"Snehal", 550, 2000, 7000, 4000, 1},
+        {"Nikita", 620, 4500, 12000, 2000, 0},
+        {"sudhanshu", 400, 1800, 5000, 3000, 1},
+        {"kajal", 680, 6000, 15000, 2500, 0}
     };
 
     // Populate Priority Queue (Min-Heap)
